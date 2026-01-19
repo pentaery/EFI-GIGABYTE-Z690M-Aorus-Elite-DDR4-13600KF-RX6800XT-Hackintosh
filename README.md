@@ -1,0 +1,2 @@
+# EFI-GIGABYTE-Z690M-Aorus-Elite-DDR4-13600KF-RX6800XT-Hackintosh
+Hackintosh EFI
