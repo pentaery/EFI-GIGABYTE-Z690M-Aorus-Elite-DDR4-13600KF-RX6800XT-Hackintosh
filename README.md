@@ -5,7 +5,6 @@
 - OpenCore: 1.0.7
 
 ## Hardware Specification
-![Motherboard](/_/mobo.png)
 
 | Component      | Model                                              |
 |----------------|----------------------------------------------------|
@@ -15,7 +14,7 @@
 | RAM            | Crucial 32GB (2x16GB) 3600MHz CL17 |                                                                                                                                                                                                                                                                                                                                                                                 
 | dGPU           | Sapphire Radeon RX 6800 XT NITRO 16GB GDDR6        | 
 
-| Drive          | WestData SN570 1TB       |   
+| Drive          | WestData Blue SN570 1TB       |   
 
 | WiFi/Bluetooth | Fenvi T919                 | 
 
