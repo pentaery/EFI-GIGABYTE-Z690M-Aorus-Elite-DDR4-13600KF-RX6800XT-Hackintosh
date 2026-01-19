@@ -13,11 +13,9 @@
 | CPU Cooling    | Thermalright Silver Soul 135                     |                                                                                                                                                                                                                                                   
 | RAM            | Crucial 32GB (2x16GB) 3600MHz CL17 |                                                                                                                                                                                                                                                                                                                                                                                 
 | dGPU           | Sapphire Radeon RX 6800 XT NITRO 16GB GDDR6        |
-| Drive          | WestData Blue SN570 1TB       |   
-
+| Drive          | WestData Blue SN570 1TB       |  
 | WiFi/Bluetooth | Fenvi T919                 | 
-
-| Power Supply   | Corsair CX750M 750W 80 Plus Bronze                 |                                                                                                                                                                                                                                                      |
+| Power Supply   | Corsair CX750M 750W 80 Plus Bronze                 |                                                                                                                                                     
 | Case           | ZZAW B3               |                                                                                                                                                                                                                                                      
 
 
